@@ -1,27 +1,27 @@
 # Ejercicio-fullstack-mobile
 ### Ejercicio #2 - hotelesApp
 
-###Descripción:
+### DescripciÃ³n:
 
 Este proyecto consiste en una App movil para dispositivos android, su funcion principal es permitir al usuario ver una serie de hotoles y entrar a cada uno de ellos para ver sus detalles y poder realizar una reserva.
 
-###Modulos Usados:
+### Modulos Usados:
 
 -native-base
 -react-native-maps
 -react-native-vector-icons
 -react-navigation
 
-###Instalacion y despliegue:
+### Instalacion y despliegue:
 
-1 - descargue el proyecto y abra una terminal desde esa ubicacion.
+1 - Descargue el proyecto y abra una terminal desde esa ubicacion.
 
-2 - Asegurese de tener un emuladro corriendo o un dispositivo conectado y ejecute el comando "react-native run-android"
+2 - Ejecute el comando "npm -i"
 
-3 - En caso de precentar errores, elimine la carpeta node_modules y ejecute el comando
+3 - Asegurese de tener un emuladro corriendo o un dispositivo conectado y ejecute el comando "react-native run-android"
 
 
-###Modo de uso:
+### Modo de uso:
 
 Esta aplicacion tiene 2 pantallas, las cuales son descritas a continuacion.
 
@@ -36,9 +36,9 @@ Descripcion:	Aca podras encontrar toda la lista de hoteles disponibles en la bas
 Pantalla detalle hotel:
 
 Descripcion:	Aca se puede encontrar el detalle del hotel seleccionado en la anterior pantalla, se pondra ver la ubicacion real del hotel, si reciben o no tarjetas y por supuesto realizar la reserva en dicho hotel.
---------
 
 
-###Aclaraciones importantes:
+
+### Aclaraciones importantes:
 
 - Tanto la base de datos como la apiRest que consume este proyecto se encuentran desplegadas en la nube, por lo que no es necesario desplegar otros proyectos, sin embargo, si se desea probar con la api local se podra hacer descomentando las lineas especificadas en el proyecto
